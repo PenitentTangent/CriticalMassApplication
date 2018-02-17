@@ -29,7 +29,7 @@ Additional Notes
 - You can actually go play our game! I've included both a Windows Executable and a Mac dmg. I've also included the Unity project files.
 - The game is a work in progress that we're very proud of! We actually intend to showcase an improved version with a scoring system
 (and generally polished up) to the local "Full Indie" event this month in Vancouver!
-
+k
 
 2. COPYRIGHT TOOL
 
