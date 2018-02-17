@@ -1,8 +1,8 @@
 # CriticalMassApplication
 Requested materials for the Internship Application
-//===========================
-// WORK AND PROJECT EXAMPLES
-//===========================
+//=========================== \n
+// WORK AND PROJECT EXAMPLES \n
+//=========================== \n
 
 1. NIGHT OF THE LIVING HOWLS (Unity Game)
 
