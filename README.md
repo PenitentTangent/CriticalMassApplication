@@ -98,36 +98,16 @@ This was so cool to me because its such a simple solution (when compared to havi
 
 
 
-- Instead of paying 60 dollars per person for the Global Game Jam, I organized a game jam of our own over the last 3 day weekend
-mMy Brother Armin (artist), and my friend Carlos(writer/designer).
-- This is an isometric/2d game IAs the core prog
 
+//===========================
+//     FOCUS
+//===========================
 
-2.
+If the resources/timing worked out, I would love the opportunity to work as "Technical Designer", working with mentors who really know
+their craft, and to learn the professional standards of design first-hand. I put technical designer in quotation marks because I feel that the position entails different tasks depending on the industry. That said, allow me to explain what I would love to focus on.
 
+I want to bring my momentum as programmer to a position that revolves around thinking critically about the design of the product, while also be able to implement some designs as well (as protoypes or as final product). In my own personaly projects, I try and think seriously about the design of what I do. This includes the nitty gritty designs of code structure, but also from the user-centered perspective as well (how does this product feel to the user? What affordances do I provide with this layout, etc...). As a student with a bit of experience in programming from both a personal and academic level, I would really like to be able to learn more about design directly from professionals working in an industry.
 
-3.
-
-
-
-
-// INSPIRATION
-
-1.
-
-2.
-
-3.
-
-
-// FOCUS
-
-
-1.
-
-2.
-
-3
 
 
 
