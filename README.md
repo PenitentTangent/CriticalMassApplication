@@ -6,13 +6,13 @@ Requested materials for the Internship Application
 
 1. NIGHT OF THE LIVING HOWLS (Unity Game)
 
-Description/Context
-- Instead of paying 60 dollars per person for the Global Game Jam, I organized a game jam of our 
-own with my brother Armin (artist), and my friend Carlos(writer/designer) over the last 3 day weekend
-(BC Family Day and actually my Birthday too! :D ).
-- This is an isometric/2d game designed to have an arcade experience. You are a Vampire that roams
-a creepy scottish castle pub that is dimly lit as werewolves spawn and attack you.
-- The core game mechanic is that the werewolves can only be seen in light. So make sure to grab a torch!
+    Description/Context
+    - Instead of paying 60 dollars per person for the Global Game Jam, I organized a game jam of our 
+    own with my brother Armin (artist), and my friend Carlos(writer/designer) over the last 3 day weekend
+    (BC Family Day and actually my Birthday too! :D ).
+    - This is an isometric/2d game designed to have an arcade experience. You are a Vampire that roams
+    a creepy scottish castle pub that is dimly lit as werewolves spawn and attack you.
+    - The core game mechanic is that the werewolves can only be seen in light. So make sure to grab a torch!
 
 My Role/Contributions
 - As the main programmer of the team, I designed the code structure and implemented most of the functionality.
