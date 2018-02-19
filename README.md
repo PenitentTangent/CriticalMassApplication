@@ -2,9 +2,9 @@
 Requested materials for the Internship Application
 
 
-//===========================
-// WORK AND PROJECT EXAMPLES 
-//=========================== 
+
+# WORK AND PROJECT EXAMPLES 
+ 
 
 1. NIGHT OF THE LIVING HOWLS (Unity Game)
 
@@ -78,9 +78,9 @@ and avoid walls by using it's ultrasonic sensor.
 - I've also attached a picture of my favourite build :) (because its so clean and compact!).
 
 
-//===========================
-//       INSPIRATION
-//===========================
+
+       INSPIRATION
+
 
 1. LINK: http://www.codingwithunity.com/2016/09/sprite-depth-for-top-down-2d.html
 
@@ -99,9 +99,9 @@ This was so cool to me because its such a simple solution (when compared to havi
 
 
 
-//===========================
-//     FOCUS
-//===========================
+
+     FOCUS
+
 
 If the resources/timing worked out, I would love the opportunity to work as "Technical Designer", working with mentors who really know
 their craft, and to learn the professional standards of design first-hand. I put technical designer in quotation marks because I feel that the position entails different tasks depending on the industry. That said, allow me to explain what I would love to focus on.
