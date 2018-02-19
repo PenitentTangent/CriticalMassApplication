@@ -112,8 +112,7 @@ I want to bring my momentum as programmer to a position that revolves around thi
 
 
 
-===========================
-      CODE CHALLENGE
+     CODE CHALLENGE
 ===========================
 Link:
 https://codepen.io/alimortazavi/pen/VQyazp
