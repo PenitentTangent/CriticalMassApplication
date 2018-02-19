@@ -48,7 +48,7 @@ Requested materials for the Internship Application..
     - I also later decided to implement some code to allow the changes to be commited to perforce changelists.
 
     Additional Notes
-    - I've removed company-sensitive comments/code from the project and made a version which you can try out yourself!
+    - I've removed company-sensitive comments/code from the project and made a version which you can try out yourself! You can find the exe in the <<"General Copyright Tool"/dist>> folder.
     - While I haven't quite finished it, when I get some more time I'm extending the functionality by allowing the user to select multiple filetypes they wish to copyright (.cs, .txt, cpp, .py etc...). It's as simple as passing in a list of these filetypes and havingto make some of my codes in to iterative for loops. I just havent finished it up yet.
 
 
