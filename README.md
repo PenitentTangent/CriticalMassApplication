@@ -1,5 +1,5 @@
 # CriticalMassApplication
-Requested materials for the Internship Application..
+Requested materials for the Internship Application.
 
 **Applicant:** Ali Shervin Mortazavi
 
