@@ -2,7 +2,7 @@
 Requested materials for the Internship Application
 
 
-=========================
+=========================\
 WORK AND PROJECT EXAMPLES
  
 
