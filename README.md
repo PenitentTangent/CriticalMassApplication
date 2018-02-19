@@ -2,9 +2,9 @@
 Requested materials for the Internship Application
 
 
-=========================\\
-WORK AND PROJECT EXAMPLES\
-=========================\
+\=========================\
+\WORK AND PROJECT EXAMPLES\
+\=========================\
  
 
 1. NIGHT OF THE LIVING HOWLS (Unity Game)
