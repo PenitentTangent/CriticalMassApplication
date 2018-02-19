@@ -4,7 +4,7 @@ Requested materials for the Internship Application
 
 =========================\
 WORK AND PROJECT EXAMPLES\
-=========================\
+=========================
  
 
 1. NIGHT OF THE LIVING HOWLS (Unity Game)
@@ -81,7 +81,7 @@ and avoid walls by using it's ultrasonic sensor.
 
 =========================\
      INSPIRATION\
-=========================\
+=========================
 
 
 1. LINK: http://www.codingwithunity.com/2016/09/sprite-depth-for-top-down-2d.html
@@ -98,7 +98,7 @@ This was so cool to me because its such a simple solution (when compared to havi
 
 =========================\
         FOCUS\
-=========================\
+=========================
 
 
 If the resources/timing worked out, I would love the opportunity to work as "Technical Designer", working with mentors who really know
@@ -111,7 +111,7 @@ I want to bring my momentum as programmer to a position that revolves around thi
 
 =========================\
      CODE CHALLENGE\
-=========================\
+=========================
 
 Link:
 https://codepen.io/alimortazavi/pen/VQyazp
