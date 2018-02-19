@@ -107,8 +107,8 @@ Requested materials for the Internship Application..
    
    For both functions, the first thing that came to my mind was the array filter method.
    
-   As we iterate through the first function for removing a type of topping (in this case pineapple), I set a simple test condition that checks to see if the current item in the iteration is NOT EQUAL to 'pineapple'. Now this is essentially equivalent to setting up for-loop, then an if statement within that has the same check and if it passes, push that item into a new array. The filter method just lets us do this with fewer lines of code.
+   As we iterate through the first function for removing a type of topping (in this case pineapple), I set a simple test condition that checks to see if the current item in the iteration is NOT EQUAL to 'pineapple'. Now this is essentially equivalent to setting up a for-loop, then an if statement that has the same check and if it passes, push that item into a new array. The filter method just lets us do this with fewer lines of code.
    
-   The second function for removing duplicates as a few different solutions you could use. In my case, I stuck with filter, and simply made my test condition in a call back method. As we iterate through, I check to see if the index of the current element is equal to that of the first found element of my new list (if true, then add to our new list). An element seen for the second time would have a different index (i.e not an index of -1. Which is what's returned by indexOf() when an item is not found).
+   For the the second function for removing duplicates I used the filter method as well, and simply made my test condition in a call back method. As we iterate through, I check to see if the index of the current element is equal to that of the first found element of my new list (if true, then add to our new list). An element seen for the second time would have a different index (i.e not an index of -1. Which is what's returned by indexOf() when an item is not found).
    
    
