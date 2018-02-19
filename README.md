@@ -3,7 +3,7 @@ Requested materials for the Internship Application
 
 
 =========================\
-WORK AND PROJECT EXAMPLES
+WORK AND PROJECT EXAMPLES\
 =========================\
  
 
@@ -80,7 +80,7 @@ and avoid walls by using it's ultrasonic sensor.
 
 
 =========================\
-     INSPIRATION
+     INSPIRATION\
 =========================\
 
 
@@ -97,7 +97,7 @@ This was so cool to me because its such a simple solution (when compared to havi
 
 
 =========================\
-        FOCUS
+        FOCUS\
 =========================\
 
 
@@ -110,7 +110,7 @@ I want to bring my momentum as programmer to a position that revolves around thi
 
 
 =========================\
-     CODE CHALLENGE
+     CODE CHALLENGE\
 =========================\
 
 Link:
