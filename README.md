@@ -1,7 +1,7 @@
 # CriticalMassApplication
-Requested materials for the Internship Application
-
-
+Requested materials for the Internship Application..
+\
+\
 **WORK AND PROJECT EXAMPLES**
 
 1. NIGHT OF THE LIVING HOWLS (Unity Game)
@@ -74,9 +74,9 @@ Requested materials for the Internship Application
     - I've attached one of my scripts that I've worked on since my project course. This script allows the robot to navigate a maze
     and avoid walls by using it's ultrasonic sensor.
     - I've also attached a picture of my favourite build :) (because its so clean and compact!).
-
-
-
+\
+\
+\
 **INSPIRATION**
 
 
