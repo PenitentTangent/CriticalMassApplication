@@ -82,14 +82,13 @@ Requested materials for the Internship Application
 
 1. LINK: http://www.codingwithunity.com/2016/09/sprite-depth-for-top-down-2d.html
 
-        - For the recent "Night of the Living Howls" game I worked on, I found an article/tutorial on 2d perspectives. The problem I was having
-        was that I was basing the game in 2d, but I wanted a tilted depth perspective (isometric) so that the player could be infront of a tree, but also walk behind it (so the tree renders in front of it). This article shows an ingenious, simple method to get around this by applying a dynamic rendering script so that objects higher up on the screen or rendered lower down (and so as the player moves, it's render layer changes as well!)
-
-        This was so cool to me because its such a simple solution (when compared to having a 3d project requiring actual z - axis motion). One of the reasons I'm so fascinated by programming is because of its creativity. I love that there are so many ways to accomplish a solution to a problem. This is a perfect example of one.
+    For the recent "Night of the Living Howls" game I worked on, I found an article/tutorial on 2d perspectives. The problem I was having was that I was basing the game in 2d, but I wanted a tilted depth perspective (isometric) so that the player could be infront of a tree, but also walk behind it (so the tree renders in front of it). This article shows an ingenious, simple method to get around this by applying a dynamic rendering script so that objects higher up on the screen or rendered lower down (and so as the player moves, it's render layer changes as well!)
+    
+    This was so cool to me because its such a simple solution (when compared to having a 3d project requiring actual z - axis motion). One of the reasons I'm so fascinated by programming is because of its creativity. I love that there are so many ways to accomplish a solution to a problem. This is a perfect example of one.
 
 2. LINK: http://www.bbc.com/news/science-environment-37169109
 
-    - This is an older article, but one that I love very much. Robotics are such an interesting field, and as a student coming into computer science with a previous degree in Microbiology, I have a fascination with biorobotics. This "octobot" has limbs that make use of what they call fluidic logic circuits, basically allowing each limb to inflate (allowing it to raise and lower legs) based on a pre-programmed set of behaviours.
+    This is an older article, but one that I love very much. Robotics are such an interesting field, and as a student coming into computer science with a previous degree in Microbiology, I have a fascination with biorobotics. This "octobot" has limbs that make use of what they call fluidic logic circuits, basically allowing each limb to inflate (allowing it to raise and lower legs) based on a pre-programmed set of behaviours.
 
     This is such a cool example of robotics modeling natural design. Now of course this robot doesn't actually replicate the biological systems of an octopus, but it's an impressive step in the way of soft robotics, and mimicking biological behaviors. I believe there is tremendous value for computer scientists to research and understand how biological systems work. Swarm robotics is another example that comes to mind... a field of robotics that basically started from biological studies of insects!
 
@@ -98,14 +97,12 @@ Requested materials for the Internship Application
 
 **FOCUS**
 
-    If the resources/timing worked out, I would love the opportunity to work as "Technical Designer", working with mentors who really know
-    their craft, and to learn the professional standards of design first-hand. I put technical designer in quotation marks because I feel that the position entails different tasks depending on the industry. That said, allow me to explain what I would love to focus on.
+If the resources/timing worked out, I would love the opportunity to work as "Technical Designer", working with mentors who really know their craft, and to learn the professional standards of design first-hand. I put technical designer in quotation marks because I feel that the position entails different tasks depending on the industry. That said, allow me to explain what I would love to focus on.
 
-    I want to bring my momentum as programmer to a position that revolves around thinking critically about the design of the product, while also be able to implement some designs as well (as protoypes or as final product). In my own personaly projects, I try and think seriously about the design of what I do. This includes the nitty gritty designs of code structure, but also from the user-centered perspective as well (how does this product feel to the user? What affordances do I provide with this layout, etc...). As a student with a bit of experience in programming from both a personal and academic level, I would really like to be able to learn more about design directly from professionals working in an industry.
+I want to bring my momentum as programmer to a position that revolves around thinking critically about the design of the product, while also be able to implement some designs as well (as protoypes or as final product). In my own personaly projects, I try and think seriously about the design of what I do. This includes the nitty gritty designs of code structure, but also from the user-centered perspective as well (how does this product feel to the user? What affordances do I provide with this layout, etc...). As a student with a bit of experience in programming from both a personal and academic level, I would really like to be able to learn more about design directly from professionals working in an industry.
 
 
  **CODE CHALLENGE**
-
 
 Link:
 https://codepen.io/alimortazavi/pen/VQyazp
